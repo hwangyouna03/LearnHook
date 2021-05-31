@@ -6,4 +6,5 @@
 
 //import './use-effect-demo/use-effect-deps'
 //import './use-effect-demo/use-effect-intro'
-import './use-effect-demo/use-effect-using-local-storage'
+//import './use-effect-demo/use-effect-using-local-storage'
+import './use-effect-demo/use-effect-unmount'
